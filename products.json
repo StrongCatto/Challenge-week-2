@@ -1,0 +1,32 @@
+[
+  {
+    "id": "001",
+    "name": "Indomi Goreng Original",
+    "price": 1900
+  },
+  {
+    "id": "002",
+    "name": "Indomi Rebus Original",
+    "price": 1500
+  },
+  {
+    "id": "002",
+    "name": "Indomi Goreng Rasa Soto Bebek",
+    "price": 2000
+  },
+  {
+    "id": "003",
+    "name": "Indomi Goreng Rasa Nasi Goreng",
+    "price": 2000
+  },
+  {
+    "id": "004",
+    "name": "Indomi Rebus Rasa Mie Rebus",
+    "price": 1800
+  },
+  {
+    "id": "005",
+    "name": "Indomi Rebus Rasa Nano-Nano",
+    "price": 2000
+  }
+]
