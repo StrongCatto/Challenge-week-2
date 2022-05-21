@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/StrongCatto/Challenge-week-2/issues"
   },
-  "homepage": "https://github.com/StrongCatto/Challenge-week-2#readme"
+  "homepage": "https://github.com/StrongCatto/Challenge-week-2#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
